@@ -1,0 +1,4 @@
+1 Main Course Burger 10.99
+2 Main Course Pasta 12.99
+3 Dessert Ice Cream 5.99
+4 Drinks Coke 2.49

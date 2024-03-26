@@ -1,0 +1,13 @@
+1. Burger x2
+2. Pasta x1
+Subtotal: 34.97
+VAT: 6.994
+Grand Total: 41.964
+Date and Time: 2024-03-27 15:30:00
+
+3. Ice Cream x2
+4. Coke x3
+Subtotal: 22.95
+VAT: 4.59
+Grand Total: 27.54
+Date and Time: 2024-03-27 18:45:00

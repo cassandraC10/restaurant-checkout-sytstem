@@ -1,0 +1,4 @@
+Category: Main Course, Item Description: Spaghetti, Item Price: 10.99
+Category: Main Course, Item Description: Burger, Item Price: 8.99
+Category: Dessert, Item Description: Cheesecake, Item Price: 5.99
+Category: Drinks, Item Description: Soda, Item Price: 1.99

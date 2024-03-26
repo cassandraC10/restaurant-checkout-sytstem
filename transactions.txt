@@ -1,0 +1,34 @@
+Burger x2
+Fries x1
+Coke x3
+Salad x1
+Water x2
+Pizza x1
+Ice Cream x2
+Course Burger x1 - $10.99
+Ice Cream x1 - $5.99
+Subtotal: 16.98
+VAT: 3.3960000000000004
+Grand Total: 20.376
+Date and Time: 2024-03-26 12:20:19
+
+Course Burger x1 - $10.99
+Ice Cream x1 - $5.99
+Subtotal: 16.98
+VAT: 3.3960000000000004
+Grand Total: 20.376
+Date and Time: 2024-03-26 12:23:41
+
+Item Description x2 - $20.0
+Subtotal: 20.0
+VAT: 4.0
+Grand Total: 24.0
+Date and Time: 2024-03-26 16:08:28
+
+Course Burger x3 - $32.97
+Course Pasta x1 - $12.99
+Subtotal: 45.96
+VAT: 9.192
+Grand Total: 55.152
+Date and Time: 2024-03-26 16:27:19
+
